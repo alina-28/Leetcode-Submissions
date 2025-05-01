@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0890-lemonade-change](https://github.com/alina-28/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Greedy
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/alina-28/Leetcode-Submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/alina-28/Leetcode-Submissions/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

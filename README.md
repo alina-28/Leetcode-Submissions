@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->

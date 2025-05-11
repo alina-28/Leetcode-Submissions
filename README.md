@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0890-lemonade-change](https://github.com/alina-28/Leetcode-Submissions/tree/master/0890-lemonade-change) |
+| [1293-three-consecutive-odds](https://github.com/alina-28/Leetcode-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Greedy
 |  |

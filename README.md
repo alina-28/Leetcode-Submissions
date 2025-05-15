@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/alina-28/Leetcode-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/alina-28/Leetcode-Submissions/tree/master/0890-lemonade-change) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Database
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/alina-28/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->

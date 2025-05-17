@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/alina-28/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0890-lemonade-change](https://github.com/alina-28/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/alina-28/Leetcode-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/alina-28/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/alina-28/Leetcode-Submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

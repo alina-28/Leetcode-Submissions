@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/alina-28/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0342-power-of-four](https://github.com/alina-28/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [2383-add-two-integers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/alina-28/Leetcode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/alina-28/Leetcode-Submissions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/alina-28/Leetcode-Submissions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

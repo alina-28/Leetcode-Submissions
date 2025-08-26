@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/alina-28/Leetcode-Submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/alina-28/Leetcode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |

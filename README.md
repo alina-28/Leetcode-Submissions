@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/alina-28/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0342-power-of-four](https://github.com/alina-28/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [2383-add-two-integers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2383-add-two-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/alina-28/Leetcode-Submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
 |  |
 | ------- |

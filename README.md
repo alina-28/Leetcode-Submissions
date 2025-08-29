@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/alina-28/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0342-power-of-four](https://github.com/alina-28/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [2383-add-two-integers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/alina-28/Leetcode-Submissions/tree/master/2481-strictly-palindromic-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/alina-28/Leetcode-Submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alina-28/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/alina-28/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [2481-strictly-palindromic-number](https://github.com/alina-28/Leetcode-Submissions/tree/master/2481-strictly-palindromic-number) |
 ## Trie
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/alina-28/Leetcode-Submissions/tree/master/0342-power-of-four) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/alina-28/Leetcode-Submissions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/alina-28/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0890-lemonade-change](https://github.com/alina-28/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/alina-28/Leetcode-Submissions/tree/master/1293-three-consecutive-odds) |
+| [1917-maximum-average-pass-ratio](https://github.com/alina-28/Leetcode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/alina-28/Leetcode-Submissions/tree/master/0890-lemonade-change) |
+| [1917-maximum-average-pass-ratio](https://github.com/alina-28/Leetcode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Database
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/alina-28/Leetcode-Submissions/tree/master/2481-strictly-palindromic-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/alina-28/Leetcode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->

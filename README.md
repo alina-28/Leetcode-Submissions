@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/alina-28/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/alina-28/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [1006-vowel-spellchecker](https://github.com/alina-28/Leetcode-Submissions/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/alina-28/Leetcode-Submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2215-finding-3-digit-even-numbers](https://github.com/alina-28/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/alina-28/Leetcode-Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/alina-28/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/alina-28/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/alina-28/Leetcode-Submissions/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/alina-28/Leetcode-Submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/alina-28/Leetcode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/alina-28/Leetcode-Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
